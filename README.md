@@ -13,6 +13,12 @@ Adds save and maximize group button to the Editor Groups Titlebar
 
 Initial version / 初始版本
 
+### 0.0.2
+
+Adapt to vscode 1.85.0 version, adjust the condition for the maximum group button to appear
+
+适配 vscode 1.85.0 版本，调整 maximize group 按钮出现的条件
+
 
 ---
 
